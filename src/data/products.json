@@ -1,26 +1,28 @@
 [
   {
     "id": 1,
-    "name": "Book",
-    "price": 10,
-    "imgUrl": "./images/book.png"
+    "name": "resaltador",
+    "price": 39.60,
+    "imgUrl": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/240x300/productos/i/r/e/resaltador-stabilo-boss-pastel-x-8-unidades-46685-default-1.jpg"
   },
   {
     "id": 2,
-    "name": "laptop",
-    "price": 800,
-    "imgUrl": "./images/laptop.png"
+    "name": "colores",
+    "price": 3.40,
+    "imgUrl": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/240x300/productos/i/c/o/colores-triangulares-cortos-x-12-sacapunta-artesco-1923-default-1.jpg"
   },
   {
     "id": 3,
-    "name": "tv",
-    "price": 400,
-    "imgUrl": "./images/tv.png"
+    "name": "Tempera",
+    "price": 8.20,
+    "imgUrl": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/240x300/productos/i/t/e/tempera-x-250-ml-rosado-faber-castell-16704011-default-1.jpg"
   },
   {
     "id": 4,
-    "name": "Washer",
-    "price": 550,
-    "imgUrl": "./images/washer.png"
+    "name": "plumon",
+    "price": 19.2,
+    "imgUrl": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/240x300/productos/i/p/l/plumon-vinifan-420-best-color-x-12-36800-default-1.jpg"
   }
+
+ 
 ]

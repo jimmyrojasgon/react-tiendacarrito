@@ -55,17 +55,17 @@ export const Item = ({ name, price, id, imgUrl }) => {
 
       {quantityPerItem === 0 ? (
         <button className="item-add-button" onClick={() => addToCart()}>
-          + Add to cart
+          + agregar al carrito
         </button>
       ) : (
         <button className="item-plus-button" onClick={() => addToCart()}>
-          + add more
+          + agregar más
         </button>
       )}
 
       {quantityPerItem > 0 && (
         <button className="item-minus-button" onClick={() => removeItem(id)}>
-          subtract item
+          quitar del carrito
         </button>
       )}
     </div>

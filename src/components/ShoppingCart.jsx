@@ -16,9 +16,9 @@ export const ShoppingCart = () => {
   return (
     <div className="cart-container">
       <div>
-        <div>Items in cart: {quantity}</div>
+        <div>Productos en el carrito: {quantity}</div>
         <div>Total: ${totalPrice}</div>
-        <button onClick={() => console.log(cart)}>Checkout</button>
+        <button onClick={() => console.log(cart)}>caja</button>
       </div>
     </div>
   );

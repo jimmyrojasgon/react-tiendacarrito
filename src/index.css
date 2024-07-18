@@ -1,5 +1,5 @@
 nav {
-  background-color: #000;
+  background-color: #a8b65c;
   color: #fff;
   display: flex;
   justify-content: space-between;
@@ -90,7 +90,7 @@ nav > h2 {
 }
 
 .cart-count {
-  background-color: blue;
+  background-color: rgb(224, 55, 55);
   border-radius: 20px;
   padding: 8px;
 }
